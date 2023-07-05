@@ -1,6 +1,8 @@
 //Kayleigh Batchos
 //CSC 201 - 80YM
+//Sep 30 2022
 //Finding the Largest and Second Largest Number
+//To Make a Triangle
 
 //Imports
 import java.util.Scanner;
