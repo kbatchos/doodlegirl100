@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doodlegirl100
 - 👀 I’m interested in cybersecurity!
-- 🌱 I’m currently learning python and java.
+- 🌱 I’m currently learning python, java, and KQL
 
 <!---
 doodlegirl100/doodlegirl100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
